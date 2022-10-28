@@ -53,3 +53,12 @@ MoSCoW Priorisation
 
 ![MoSCow](https://user-images.githubusercontent.com/111808023/198717566-a1607091-9bdc-4870-a626-2a09be2c8ac3.png)
 
+
+## Risk Assessment
+
+It is always important to carry out a risk assessment for any project as many different potential risks could arise. Below is a screenshot of my detailed risk assessment. This is where I have outlined potential risks, their impacts and mitigation techniques that we may need.
+
+![Risk Assessment](https://user-images.githubusercontent.com/111808023/198723611-83158ab8-2c2d-4d2b-ac66-5e322d7fcbfb.png)
+
+
+
