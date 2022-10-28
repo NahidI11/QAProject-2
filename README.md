@@ -40,8 +40,16 @@ Below you can find my ERD, showing a one-to-many relationship:
 
 ## Tracking
 
+I used Jira for Project Tracking as shown below:
+
+![Jira Board](https://user-images.githubusercontent.com/111808023/198712849-e318bb15-b67c-4498-ab03-89aca250e1a2.png)
+
+![Jira Board 2](https://user-images.githubusercontent.com/111808023/198712863-468cd339-9b19-4a9b-b106-7faeea94d0d9.png)
+
+![Jira Board 3](https://user-images.githubusercontent.com/111808023/198712909-c77a1439-dfc9-44a1-97fc-22f9915742ff.png)
 
 
+MoSCoW Priorisation
 
-
+![MoSCow](https://user-images.githubusercontent.com/111808023/198717566-a1607091-9bdc-4870-a626-2a09be2c8ac3.png)
 
